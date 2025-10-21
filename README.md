@@ -22,7 +22,7 @@ In higher versions of Python, use `pip3` in place of `pip`.)
 
 5. Run `EDWFC.py` and `HCEDFCR.py` to produce `EDWFC_results.csv` and `HCERDFCR_results.csv` and `EDWFC_performance.csv`.  
    - `EDWFC_results.csv` contains the ranked list of **miRNA**.
-   -  - `HCEDFCR_results.csv` contains the cluster ranks and ranked list of **miRNA**. 
+   - `HCEDFCR_results.csv` contains the cluster ranks and ranked list of **miRNA**. 
 
 ## Cite the Article
 Kundu, A., Singh, J., Pal, J. K., & Ray, S. S. (2022). Predicting drug-resistant miRNAs in cancer. Network Modeling Analysis in Health Informatics and Bioinformatics, 12(1), 6.
